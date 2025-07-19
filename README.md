@@ -18,8 +18,8 @@ This project is a logic-only, headless checkout engine for a mini (POS) system. 
 
 ## 🛠️ Tech Stack & Dependencies
 
-  - **Flutter**: 3.32.4
-  - **Dart**: 3.8.1
+  - **Flutter**: `3.32.4`
+  - **Dart**: `3.8.1`
   - **bloc**: `^9.0.0` 
   - **hydrated\_bloc**: `^10.1.1` For state persistence 
   - **equatable**: `^2.0.7` 
