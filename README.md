@@ -4,7 +4,7 @@ This project is a logic-only, headless checkout engine for a mini (POS) system. 
 
 -----
 
-## ✨ Features
+## Features
 
   - **Product Catalog Management**: Loads a static product catalog from a JSON asset. 
   - **Comprehensive Shopping Cart**: Supports adding, removing, changing item quantities, and applying line-item discounts. 
