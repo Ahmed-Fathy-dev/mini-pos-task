@@ -16,7 +16,7 @@ This project is a logic-only, headless checkout engine for a mini (POS) system. 
 
 -----
 
-## 🛠️ Tech Stack & Dependencies
+##  Tech Stack & Dependencies
 
   - **Flutter**: `3.32.4`
   - **Dart**: `3.8.1`
@@ -28,7 +28,7 @@ This project is a logic-only, headless checkout engine for a mini (POS) system. 
 
 -----
 
-## 🚀 Setup & Running Tests
+##  Setup & Running Tests
 
 To set up the project and run the test suite, follow these steps from your terminal:
 
@@ -52,7 +52,7 @@ To set up the project and run the test suite, follow these steps from your termi
 
 -----
 
-## ✅ Task Fulfillment Summary
+##  Task Fulfillment Summary
 
   - **Time Spent**: Approximately 4 hours (including implementation, debugging, and testing).
   - **Completed Requirements**:
